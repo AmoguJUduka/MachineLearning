@@ -15,4 +15,4 @@ This repository holds the below projects. Currently, they are categorized into f
 - HW1b: [Classification Project](https://github.com/AmoguJUduka/MachineLearning/blob/main/DeepLearningAssignments/Homework1/SpamDataset_LogisticRegression.ipynb)
   
 ### Advanced Data Science (NLP, Computer Vision, Deep Neural Nets)
-- HW2: [Advanced Project](https://github.com/AmoguJUduka/MachineLearning/blob/main/DeepLearningAssignments/Lab_2_Build_a_DNN_step_by_step(1).ipynb)
+- HW2: [Advanced Project](https://github.com/AmoguJUduka/MachineLearning/blob/main/DeepLearningAssignments/Homework2/HW2.ipynb)
