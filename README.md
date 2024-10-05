@@ -12,7 +12,7 @@ This repository holds the below projects. Currently, they are categorized into f
 - Link to your project: [Regression Project](link-to-project)
 
 ### Prediction (Classification)
-- Link to your project: [Classification Project](link-to-project)
+- HW1b: [Classification Project](https://github.com/AmoguJUduka/MachineLearning/blob/main/DeepLearningAssignments/SpamDataset_LogisticRegression.ipynb)
   
 ### Advanced Data Science (NLP, Computer Vision, Deep Neural Nets)
 - Link to your project: [Advanced Project](link-to-project)
