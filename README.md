@@ -17,4 +17,4 @@ This repository holds the below projects. Currently, they are categorized into f
   
 ### Advanced Data Science (NLP, Computer Vision, Deep Neural Nets)
 - [Advanced Project](https://github.com/AmoguJUduka/MachineLearning/blob/main/DeepLearningAssignments/Homework2/HW2.ipynb)
-- [Transformer](https://github.com/AmoguJUduka/MachineLearning/blob/main/DeepLearningAssignments/Homework4/Transformer.ipynb)
+- [Transformer (RNN)](https://github.com/AmoguJUduka/MachineLearning/blob/main/DeepLearningAssignments/Homework4/Transformer.ipynb)
